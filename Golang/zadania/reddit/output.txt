@@ -1,52 +1,52 @@
-Who's Hiring? - March 2023
-https://www.reddit.com/r/golang/comments/11fijrn/whos_hiring_march_2023/
-Go SMB Server?
-https://www.reddit.com/r/golang/comments/129hizd/go_smb_server/
-Manipulating internet and wireless connections with different protocols
-https://www.reddit.com/r/golang/comments/129csya/manipulating_internet_and_wireless_connections/
-The Smallest Go Binary (5KB)
-https://totallygamerjet.hashnode.dev/the-smallest-go-binary-5kb
-In-memory key value store
-https://www.reddit.com/r/golang/comments/129n6oh/inmemory_key_value_store/
-Why methods types are different
-https://go.dev/play/p/4mR3HtkfK-T
-ResultGroup: Go lib for concurrent tasks &amp; errors management
-https://www.reddit.com/r/golang/comments/129smfi/resultgroup_go_lib_for_concurrent_tasks_errors/
-ChatGPTUI: ChatGPT 🤖 with Textual User Interface mode written in Go
-https://github.com/dwisiswant0/chatgptui?utm_medium=reddit.com
-Ebiten vs pixel (Golang)
-https://www.reddit.com/r/golang/comments/129sagu/ebiten_vs_pixel_golang/
-Know your enemy: Transformer multi-head attention in 72 lines of Go. This the dark heart of all modern AI systems, that assimilate your work without citation ("fair use") and reduce your economic value toward zero
-https://bugfix-66.com/5cb00909c61822041297f4a85e88b3eafaa6c11733f793dcb9880b4cc29631d7
-Queue management service modeling
-https://www.reddit.com/r/golang/comments/129qxv0/queue_management_service_modeling/
-Handler vs Controller
-https://www.reddit.com/r/golang/comments/1294p5g/handler_vs_controller/
-Looking for suggestions on the code architectures and patterns
-https://www.reddit.com/r/golang/comments/1298ibg/looking_for_suggestions_on_the_code_architectures/
-Web scraping with Go
-https://www.reddit.com/r/golang/comments/129n1g4/web_scraping_with_go/
-Go famous/standard frameworks and libraries ?
-https://www.reddit.com/r/golang/comments/129rn09/go_famousstandard_frameworks_and_libraries/
-New language suggestion to old time Gopher
-https://www.reddit.com/r/golang/comments/128ymjz/new_language_suggestion_to_old_time_gopher/
-How and where to start building web api backend?
-https://www.reddit.com/r/golang/comments/128vfrn/how_and_where_to_start_building_web_api_backend/
-vanceai-go - golang SDK for VanceAI image processing API
-https://www.reddit.com/r/golang/comments/129gc52/vanceaigo_golang_sdk_for_vanceai_image_processing/
-GoLang Goes Retro: Compiler Now Supports Morse Code | TechCrunch
-https://tsrn.ch/tAa6Gfj
-GitHub - agis/spawn: Spawn your Go binary from its TestMain, for end-to-end tests
-https://github.com/agis/spawn
-Why is it invalid to take the address of a string's byte?
-https://www.reddit.com/r/golang/comments/128j3vk/why_is_it_invalid_to_take_the_address_of_a/
-Help structure project
-https://www.reddit.com/r/golang/comments/128udx0/help_structure_project/
-LYRA
-https://www.reddit.com/r/golang/comments/129192y/lyra/
-getting your repo's date and commit hash to use as version
-https://www.reddit.com/r/golang/comments/128xdr8/getting_your_repos_date_and_commit_hash_to_use_as/
-Am I being pedantic about these things?
-https://www.reddit.com/r/golang/comments/1286wki/am_i_being_pedantic_about_these_things/
-Code review first go project
-https://www.reddit.com/r/golang/comments/128k7ov/code_review_first_go_project/
+Who's Hiring? - April 2023
+https://www.reddit.com/r/golang/comments/12aq7tb/whos_hiring_april_2023/
+Securing Your Golang Application: Unleashing the Power of Authentication and Authorization
+https://www.reddit.com/r/golang/comments/12bbahn/securing_your_golang_application_unleashing_the/
+PTerm v0.12.58: You can now use beautiful structured logging for your projects!
+https://github.com/pterm/pterm/tree/master/_examples/logger/default
+GoLand 2023.1 has been released!
+https://www.reddit.com/r/golang/comments/12bgcgc/goland_20231_has_been_released/
+Who is using Go to build web sites and applications?
+https://www.reddit.com/r/golang/comments/12bhbp0/who_is_using_go_to_build_web_sites_and/
+Why did Go choose to break the classic C frame?
+https://www.reddit.com/r/golang/comments/12b8eu8/why_did_go_choose_to_break_the_classic_c_frame/
+Build GitHub sign-in with Go and Logto
+https://docs.logto.io/tutorial/how-to-build-github-sign-in-with-go-and-logto/
+Best Resource to learn Web Go-Gin framework.
+https://www.reddit.com/r/golang/comments/12be50b/best_resource_to_learn_web_gogin_framework/
+Open source project ideas
+https://www.reddit.com/r/golang/comments/12blg58/open_source_project_ideas/
+Socket Options &amp; Go: Multiple Listeners, One Port
+https://medium.com/@madflojo/socket-options-go-multiple-listeners-one-port-7e5257044bb1
+Compile windows(x64) dll inside of linux(wsl)
+https://www.reddit.com/r/golang/comments/12bp3yb/compile_windowsx64_dll_inside_of_linuxwsl/
+NATS &amp; Kafka comparison
+https://synadia.com/blog/nats-io-total-cost-of-ownership-tco-comparison-with-kafka
+Was wondering if someone that has hired developers in the past could take a look at my resume and see if it has got enough to start submitting for an entry-level positon.
+https://www.reddit.com/r/golang/comments/12ayfgu/was_wondering_if_someone_that_has_hired/
+A tool to help you manage your go imports
+https://www.reddit.com/r/golang/comments/12bextq/a_tool_to_help_you_manage_your_go_imports/
+What would you rewrite in Golang?
+https://www.reddit.com/r/golang/comments/12alic4/what_would_you_rewrite_in_golang/
+Dynamically pass the SQL parameter(s) in Go
+https://www.reddit.com/r/golang/comments/12axvf4/dynamically_pass_the_sql_parameters_in_go/
+Animated diagrams with D2, a text-to-diagram language written in Go
+https://d2lang.com/blog/animation
+Using Imgui with Go
+https://www.reddit.com/r/golang/comments/12basj0/using_imgui_with_go/
+A guide for evaluating tracing tools
+https://www.reddit.com/r/golang/comments/12bdd8q/a_guide_for_evaluating_tracing_tools/
+Exit go program, as soon as a function starts.
+https://www.reddit.com/r/golang/comments/12b6rrf/exit_go_program_as_soon_as_a_function_starts/
+Debugging concurrency: Adding millisecond sleeps randomly?
+https://www.reddit.com/r/golang/comments/12agjqq/debugging_concurrency_adding_millisecond_sleeps/
+slogt bridges stdlib testing.T and slog
+https://www.reddit.com/r/golang/comments/12ajonr/slogt_bridges_stdlib_testingt_and_slog/
+Postfix completions for methods like functions in VS Code
+https://www.reddit.com/r/golang/comments/12aheoy/postfix_completions_for_methods_like_functions_in/
+mgmt - https://github.com/purpleidea/mgmt
+https://www.reddit.com/r/golang/comments/12b3din/mgmt_httpsgithubcompurpleideamgmt/
+Go stdlib regexp package: A DFA experiment
+https://www.reddit.com/r/golang/comments/12aesly/go_stdlib_regexp_package_a_dfa_experiment/
+Google's Firebase Auth in Go, no npm please
+https://www.reddit.com/r/golang/comments/12az73t/googles_firebase_auth_in_go_no_npm_please/

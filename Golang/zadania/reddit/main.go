@@ -15,7 +15,7 @@ import (
 func main() {
 	//var f fetcher.RedditFetcher // do not change
 	// var w io.Writer // do not change
-	c := NewFetcher("https://oauth.reddit.com/r/golang", time.Second*5)
+	c := NewFetcher("https://www.reddit.com/r/golang.json", time.Second*5)
 	err := c.Fetch(context.Background())
 	if err != nil {
 		log.Fatal(err)
@@ -70,7 +70,6 @@ func (e *Fetcher) Fetch(ctx context.Context) error {
 	if err != nil {
 		return fmt.Errorf("cannot create request: %w", err)
 	}
-	req.Header.Add("Authorization", "bearer 23647321236545-YceLNgAn65Xk339PUlzdJWxjqiKFMw")
 
 	resp, err := e.c.Do(req)
 	if err != nil {
